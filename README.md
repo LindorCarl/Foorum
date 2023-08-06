@@ -10,6 +10,6 @@ Voici les principales fonctionnalités disponibles suivant les différents statu
 * Parcourir les réponses de chaque question sur le forum.
 
 `L'utilisateur:`
-Prérequis: s'être enregistré via le formulaire d'inscription.
-Accès aux mêmes fonctionnaités que le visiteur.
-Ajout/suppression/modification de questions. 
+* Prérequis: s'être enregistré via le formulaire d'inscription.
+* Accès aux mêmes fonctionnaités que le visiteur.
+* Ajout/suppression/modification de questions. 
